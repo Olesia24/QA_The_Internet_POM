@@ -1,0 +1,10 @@
+com/the_internet/pages/DragAndDropPage.class
+com/the_internet/pages/HomePage.class
+com/the_internet/pages/AlertsPage.class
+com/the_internet/pages/BasePage.class
+com/the_internet/pages/FileUploadPage.class
+com/the_internet/pages/DropdownPage.class
+com/the_internet/pages/CheckboxPage.class
+com/the_internet/pages/SidePanel.class
+com/the_internet/pages/NewWindowPage.class
+com/the_internet/pages/BrockenImagesPage.class

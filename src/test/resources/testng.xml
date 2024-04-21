@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Smoky" verbose="1">
+    <test name="Smoky">
+        <classes>
+            <class name="com.the_internet.tests.BrockenImagesTest"/>
+            <class name="com.the_internet.tests.AlertsTests"/>
+            <class name="com.the_internet.tests.CheckboxTest"/>
+            <class name="com.the_internet.tests.DragAndDropTest"/>
+            <class name="com.the_internet.tests.DropdownTest"/>
+            <class name="com.the_internet.tests.FileUploadTest"/>
+            <class name="com.the_internet.tests.NewWindowTest"/>
+        </classes>
+    </test>
+
+</suite>
